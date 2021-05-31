@@ -1,0 +1,6 @@
+com\itheima\utils\QiNiuUtils.class
+com\itheima\entity\Result.class
+com\itheima\constant\MessageConstant.class
+com\itheima\entity\PageResult.class
+com\itheima\entity\QueryPageBean.class
+com\itheima\exception\MyException.class
